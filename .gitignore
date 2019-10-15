@@ -1,4 +1,5 @@
 venv/
 frontend/h_m_d/node_modules/
-backend/h_m_d/h_m_d/__pycache__/
 .idea/
+backend/h_m_d/h_m_d/__pycache__/
+
